@@ -1,0 +1,12 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+}
+/* body */
+body{
+    background: #4d244e;
+    font-family: sans-serif;
+    border-top: 5px solid #aa8e8d;
+}
